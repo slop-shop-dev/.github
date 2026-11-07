@@ -6,16 +6,15 @@
   </picture>
 </p>
 
-## Welcome to the workshop
+## `print("hello, world")`
 
-Rough ideas, working code, one experiment at a time. Welcome to Slop Shop.
+Fuzzy ideas, crazy experiments, brittle prototypes, production-grade code, GenAI throughout.
+Welcome to the Slop Shop!
 
-Slop Shop is Rui's home for software projects and AI experiments, based in Portugal.
+This is the home for our software projects and AI experiments.
 It is a place to explore ideas, build useful tools and learn by making things.
 
 For now, the focus is experimentation: giving promising ideas room to develop into software worth sharing.
-Over time, that work may grow into a software and AI consultancy.
-
 Browse our public repositories to see what we share along the way.
 
-[slop-shop.dev](https://slop-shop.dev)
+More info about our products and services can be found at [slop-shop.dev](https://slop-shop.dev).
