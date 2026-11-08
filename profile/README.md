@@ -11,10 +11,10 @@
 Fuzzy ideas, crazy experiments, brittle prototypes, production-grade code, GenAI throughout.
 Welcome to the Slop Shop!
 
-This is the home for our software projects and AI experiments.
+A home for software projects and AI experiments.
 It is a place to explore ideas, build useful tools and learn by making things.
 
 For now, the focus is experimentation: giving promising ideas room to develop into software worth sharing.
-Browse our public repositories to see what we share along the way.
+Browse the public repositories to follow the experiments.
 
-More info about our products and services can be found at [slop-shop.dev](https://slop-shop.dev).
+[slop-shop.dev](https://slop-shop.dev)
